@@ -5,6 +5,7 @@ CAD models of the Centauri Carbon
 
 
 **Credits**
+
 Discord user anna\_devminer: model of mainboard and and toolhead PCB
 
 Benjamin Butschell: Midcowling revisions

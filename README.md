@@ -1,14 +1,11 @@
 # cad
 
-CAD models of the Centauri Carbon
+CAD model of the Centauri Carbon
 
-Note: Official parts have been imported but alignment of the Z axis with the rest of the assembly still needs work. subassemblies have not yet been updated with elegoo parts, only the full printer STEP and F3D have for the time being
-
+Live Viewer available here on the [Opencentauri Docs](https://docs.opencentauri.cc/hardware/CC1/)
 
 
 **Credits**
-
-
 
 Elegoo: Provided official models for Z axis, X axis, and toolhead plastic parts
 
@@ -33,4 +30,3 @@ Printables/Discord userMINUS\_Stl: main cable chain links
 Printables user indi001 (https://www.artstation.com/werner-kaffl): toolhead cable chain link
 
 Robert Samples: Main geometry and integration
-

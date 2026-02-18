@@ -11,9 +11,9 @@ https://github.com/user-attachments/assets/0ed5f8c5-8805-440e-aed6-0f10b0649171
 
 Preliminary FDM-optimized versions of the official elegoo parts are now available.
 
-<img width="820" height="648" alt="image" src="https://github.com/user-attachments/assets/d81598db-d4c1-48df-ae4e-125a48231dfb" />
+<img width="2273" height="2299" alt="image" src="https://github.com/user-attachments/assets/00265465-db6a-4350-918e-652b21e734bd" />
 
-Built in support has not been added yet but is planned at some point and further improvements may need to be done on some of these models. Additionally not all models are particularly well suited for direct FDM optimization and better scratch designs from the community are available. In particular this applies to:
+Built in support has been added to some parts (noted in filename, support shown in green in the step files) but is planned at in the future, further improvements may need to be done on some of these models. Additionally not all models are particularly well suited for direct FDM optimization and better scratch designs from the community are available. In particular this applies to:
 - XY Bearing blocks:  [clogged_nozzl3's bearing blocks](https://www.printables.com/model/1535090-centauri-carbon-runice-toothed-idler-blocks) are strongly reccomended over the rough optimized version included here
 - Toolhead cowling/shell: There are numerous toolhead cowling options that are more suitable for FDM printing including the following:
     - [clogged_nozzl3's ACCTC cowling](https://www.printables.com/model/1575497-another-centauri-carbon-toolhead-cover) heavily modified low mass gamma-variant

@@ -44,6 +44,8 @@ Elegoo: Provided official models for Z axis, X axis, and toolhead plastic parts
 
 Discord user anna\_devminer: model of mainboard and and toolhead PCB
 
+Discord user thijskunst added beta opencentauri board model
+
 Benjamin Butschell: Midcowling revisions
 
 Printables/Discord user CornFlakes\_494568: Front Idler mount revisions

@@ -2,7 +2,7 @@
 
 CAD model of the Centauri Carbon
 
-Live Viewer available here on the [Opencentauri Docs](https://docs.opencentauri.cc/hardware/CC1/)
+Live Viewer available here on the [Opencentauri Docs](https://docs.opencentauri.cc/hardware/CC1/) an F3Z version of the CAD with joints can be downloaded there or through [printables](https://www.printables.com/model/1355933-elegoo-centauri-carbon-opencentauri-community-cad)
 
 
 

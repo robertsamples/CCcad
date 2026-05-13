@@ -2,7 +2,7 @@
 
 CAD model of the Centauri Carbon
 
-Live Viewer available here on the [Opencentauri Docs](https://docs.opencentauri.cc/hardware/CC1/)
+Live Viewer available here on the [Opencentauri Docs](https://docs.opencentauri.cc/hardware/CC1/) an F3Z version of the CAD with joints can be downloaded there or through [printables](https://www.printables.com/model/1355933-elegoo-centauri-carbon-opencentauri-community-cad)
 
 
 
@@ -43,6 +43,8 @@ ABS/ASA minimum recommended. Counterbore bridging was used to eliminate support 
 Elegoo: Provided official models for Z axis, X axis, and toolhead plastic parts
 
 Discord user anna\_devminer: model of mainboard and and toolhead PCB
+
+Discord user thijskunst added beta opencentauri board model
 
 Benjamin Butschell: Midcowling revisions
 

@@ -8,8 +8,8 @@ Live Viewer available here on the [Opencentauri Docs](https://docs.opencentauri.
 
 https://github.com/user-attachments/assets/0ed5f8c5-8805-440e-aed6-0f10b0649171
 
-### CC1 CANVAS CAD
-Preliminary CAD for The CC1 equiped with the CANVAS upgrade is now available.
+### CC1 + CC2 CANVAS CAD
+Preliminary CAD for both the CC1 and CC2 equipped with the CANVAS upgrade is now available.
 
 <img width="881" height="842" alt="image" src="https://github.com/user-attachments/assets/1a30de2f-0193-4890-b4ee-d8c38e218fa9" />
 

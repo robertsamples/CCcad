@@ -8,6 +8,12 @@ Live Viewer available here on the [Opencentauri Docs](https://docs.opencentauri.
 
 https://github.com/user-attachments/assets/0ed5f8c5-8805-440e-aed6-0f10b0649171
 
+### CC1 CANVAS CAD
+Preliminary CAD for The CC1 equiped with the CANVAS upgrade is now available.
+
+<img width="881" height="842" alt="image" src="https://github.com/user-attachments/assets/1a30de2f-0193-4890-b4ee-d8c38e218fa9" />
+
+
 ## FDM-optimized printable replacement parts
 
 <img width="1638" height="1440" alt="image" src="https://github.com/user-attachments/assets/64fae27e-0e5d-4e6f-8c66-ba423bc33c1a" />
